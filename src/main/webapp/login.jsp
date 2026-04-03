@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CEMK — Login</title>
+  <title>DEBMIT — Login</title>
   <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
@@ -320,7 +320,7 @@
 
   <div class="blob"></div>
 
-  <div class="corner corner-tl">CEMK // AUTH</div>
+  <div class="corner corner-tl">DEBMIT // AUTH</div>
   <div class="corner corner-tr">v1.0.0</div>
   <div class="corner corner-bl">SECURE LOGIN</div>
   <div class="corner corner-br">EST. 2024</div>
@@ -385,7 +385,7 @@
       <!-- Footer -->
       <div class="card-footer">
         <span><span class="status-dot"></span>System Online</span>
-        <span>CEMK &copy; 2024</span>
+        <span> &copy; 2024</span>
       </div>
 
     </div>

@@ -460,25 +460,25 @@
     </div>
 
     <div class="actions-grid">
-      <a href="#" class="action-card">
+      <a href="register-student.jsp" class="action-card">
         <span class="action-icon">[+]</span>
         <div class="action-title">Register Student</div>
         <div class="action-desc">Add a new student record to the system</div>
         <span class="action-arrow">&#8599;</span>
       </a>
-      <a href="#" class="action-card">
+      <a href="view-all-students.jsp" class="action-card">
         <span class="action-icon">[&#9776;]</span>
         <div class="action-title">View All Students</div>
         <div class="action-desc">Browse and search all student records</div>
         <span class="action-arrow">&#8599;</span>
       </a>
-      <a href="#" class="action-card">
+      <a href="edit-student.jsp" class="action-card">
         <span class="action-icon">[&#9998;]</span>
         <div class="action-title">Update Student</div>
         <div class="action-desc">Edit an existing student's information</div>
         <span class="action-arrow">&#8599;</span>
       </a>
-      <a href="#" class="action-card">
+      <a href="delete-student.jsp" class="action-card">
         <span class="action-icon">[&#215;]</span>
         <div class="action-title">Delete Student</div>
         <div class="action-desc">Remove a student record from the system</div>
