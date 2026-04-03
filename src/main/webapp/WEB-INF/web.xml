@@ -12,16 +12,6 @@
     <welcome-file>index.html</welcome-file>
   </welcome-file-list>
 
-  <!-- Login Servlet -->
-  <servlet>
-    <servlet-name>LoginServlet</servlet-name>
-    <servlet-class>com.cemk.controller.LoginServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>LoginServlet</servlet-name>
-    <url-pattern>/LoginServlet</url-pattern>
-  </servlet-mapping>
-
   <!-- Session timeout: 30 minutes -->
   <session-config>
     <session-timeout>30</session-timeout>
