@@ -43,7 +43,7 @@ public class StudentService {
 
         // FIX: try-with-resources closes Statement and ResultSet automatically
         try (Statement stmt = con.createStatement();
-             ResultSet rs   = stmt.executeQuery("SELECT * FROM student")) {
+             ResultSet rs   = stmt.executeQuery("SELECT * FROM student ORDER BY student_id")) {
 
             while (rs.next()) {
                 StudentDTO studentDTO = new StudentDTO();
